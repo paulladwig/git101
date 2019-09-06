@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+}
+
+.content {
+	box-shadow: 2 2 2 black;
+	border-radius: 5px;
+	border-style: solid;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 20px;
+}
